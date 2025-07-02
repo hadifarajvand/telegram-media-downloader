@@ -1,0 +1,38 @@
+# Telegram Media Downloader Configuration
+
+# Telegram API Configuration
+telegram:
+  session_name: "default_session"
+  batch_size: 5
+  max_retries: 3
+  retry_delay: 5
+
+# Download Settings
+download:
+  output_directory: "downloads"
+  max_file_size_mb: 1000  # 1GB limit
+  download_speed_limit: 0  # 0 = no limit, in bytes per second
+  preserve_metadata: true
+  organize_by_date: false
+  organize_by_channel: true
+
+# Filtering
+filters:
+  min_file_size_kb: 0
+  max_file_size_mb: 1000
+  allowed_extensions: []  # Empty = all extensions
+  excluded_extensions: [".exe", ".bat", ".sh"]
+
+# Logging
+logging:
+  level: "INFO"
+  file: "telegram_downloader.log"
+  max_size_mb: 10
+  backup_count: 5
+
+# UI Settings
+ui:
+  show_progress: true
+  show_file_info: true
+  colors: true
+  quiet_mode: false 

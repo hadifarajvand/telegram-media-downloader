@@ -1,0 +1,517 @@
+2025-07-02 09:02:44,920 - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2025-07-02 09:02:46,496 - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2025-07-02 09:03:02,801 - INFO - Phone migrated to 4
+2025-07-02 09:03:02,973 - INFO - Reconnecting to new data center 4
+2025-07-02 09:03:03,201 - INFO - Disconnecting from 149.154.167.51:443/TcpFull...
+2025-07-02 09:03:03,203 - INFO - Disconnection from 149.154.167.51:443/TcpFull complete!
+2025-07-02 09:03:03,203 - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2025-07-02 09:03:05,153 - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2025-07-02 09:03:12,042 - INFO - Successfully connected to Telegram
+2025-07-02 09:03:12,865 - INFO - Starting direct file download in chunks of 262144 at 0, stride 262144
+2025-07-02 09:03:12,876 - INFO - Starting direct file download in chunks of 262144 at 0, stride 262144
+2025-07-02 09:03:12,883 - INFO - Starting direct file download in chunks of 262144 at 0, stride 262144
+2025-07-02 09:03:12,892 - INFO - Starting direct file download in chunks of 262144 at 0, stride 262144
+2025-07-02 09:03:12,905 - INFO - Starting direct file download in chunks of 262144 at 0, stride 262144
+2025-07-02 09:34:34,361 - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2025-07-02 09:34:34,484 - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2025-07-02 09:34:35,701 - ERROR - Error extracting links from channel @https://t.me/Pack_48: Cannot find any entity corresponding to "@https://t.me/Pack_48"
+2025-07-02 09:34:35,701 - INFO - Disconnecting from 149.154.167.91:443/TcpFull...
+2025-07-02 09:34:35,701 - INFO - Disconnection from 149.154.167.91:443/TcpFull complete!
+2025-07-02 09:34:51,768 - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2025-07-02 09:34:51,900 - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2025-07-02 09:34:54,705 - INFO - Sleeping for 10s (0:00:10) on GetFullChannelRequest flood wait
+2025-07-02 09:35:06,001 - INFO - Sleeping for 10s (0:00:10) on GetFullChannelRequest flood wait
+2025-07-02 09:35:17,302 - INFO - Sleeping for 10s (0:00:10) on GetFullChannelRequest flood wait
+2025-07-02 09:35:29,087 - INFO - Sleeping for 9s (0:00:09) on GetFullChannelRequest flood wait
+2025-07-02 09:35:39,511 - INFO - Sleeping for 10s (0:00:10) on GetFullChannelRequest flood wait
+2025-07-02 09:35:51,131 - INFO - Sleeping for 9s (0:00:09) on GetFullChannelRequest flood wait
+2025-07-02 09:36:01,406 - INFO - Sleeping for 10s (0:00:10) on GetFullChannelRequest flood wait
+2025-07-02 09:36:12,770 - INFO - Sleeping for 10s (0:00:10) on GetFullChannelRequest flood wait
+2025-07-02 09:36:24,627 - INFO - Sleeping for 10s (0:00:10) on GetFullChannelRequest flood wait
+2025-07-02 09:36:36,296 - INFO - Sleeping for 9s (0:00:09) on GetFullChannelRequest flood wait
+2025-07-02 09:36:46,966 - INFO - Sleeping for 9s (0:00:09) on GetFullChannelRequest flood wait
+2025-07-02 09:36:57,241 - INFO - Sleeping for 10s (0:00:10) on GetFullChannelRequest flood wait
+2025-07-02 09:37:08,594 - INFO - Sleeping for 10s (0:00:10) on GetFullChannelRequest flood wait
+2025-07-02 09:37:19,928 - INFO - Sleeping for 9s (0:00:09) on GetFullChannelRequest flood wait
+2025-07-02 09:37:30,307 - INFO - Sleeping for 10s (0:00:10) on GetFullChannelRequest flood wait
+2025-07-02 09:37:41,570 - INFO - Sleeping for 10s (0:00:10) on GetFullChannelRequest flood wait
+2025-07-02 09:37:52,854 - INFO - Sleeping for 9s (0:00:09) on GetFullChannelRequest flood wait
+2025-07-02 09:38:02,556 - INFO - Processed 100 messages...
+2025-07-02 09:38:03,558 - INFO - Sleeping for 10s (0:00:10) on GetFullChannelRequest flood wait
+2025-07-02 09:38:14,951 - INFO - Sleeping for 9s (0:00:09) on GetFullChannelRequest flood wait
+2025-07-02 09:38:25,412 - INFO - Sleeping for 10s (0:00:10) on GetFullChannelRequest flood wait
+2025-07-02 09:38:36,718 - INFO - Sleeping for 10s (0:00:10) on GetFullChannelRequest flood wait
+2025-07-02 09:38:48,006 - INFO - Sleeping for 10s (0:00:10) on GetFullChannelRequest flood wait
+2025-07-02 09:38:59,986 - INFO - Sleeping for 9s (0:00:09) on GetFullChannelRequest flood wait
+2025-07-02 09:39:10,995 - INFO - Sleeping for 9s (0:00:09) on GetFullChannelRequest flood wait
+2025-07-02 09:39:21,409 - INFO - Sleeping for 10s (0:00:10) on GetFullChannelRequest flood wait
+2025-07-02 09:39:32,739 - INFO - Sleeping for 10s (0:00:10) on GetFullChannelRequest flood wait
+2025-07-02 09:39:44,036 - INFO - Sleeping for 10s (0:00:10) on GetFullChannelRequest flood wait
+2025-07-02 09:39:55,477 - INFO - Sleeping for 10s (0:00:10) on GetFullChannelRequest flood wait
+2025-07-02 09:40:07,139 - INFO - Sleeping for 9s (0:00:09) on GetFullChannelRequest flood wait
+2025-07-02 09:40:17,433 - INFO - Sleeping for 10s (0:00:10) on GetFullChannelRequest flood wait
+2025-07-02 09:40:28,979 - INFO - Sleeping for 9s (0:00:09) on GetFullChannelRequest flood wait
+2025-07-02 09:40:39,276 - INFO - Sleeping for 10s (0:00:10) on GetFullChannelRequest flood wait
+2025-07-02 09:40:50,608 - INFO - Sleeping for 10s (0:00:10) on GetFullChannelRequest flood wait
+2025-07-02 09:41:02,259 - INFO - Sleeping for 9s (0:00:09) on GetFullChannelRequest flood wait
+2025-07-02 09:41:12,515 - INFO - Sleeping for 10s (0:00:10) on GetFullChannelRequest flood wait
+2025-07-02 09:41:23,831 - INFO - Sleeping for 10s (0:00:10) on GetFullChannelRequest flood wait
+2025-07-02 09:41:35,557 - INFO - Sleeping for 10s (0:00:10) on GetFullChannelRequest flood wait
+2025-07-02 09:41:46,591 - INFO - Processed 200 messages...
+2025-07-02 09:41:46,870 - INFO - Sleeping for 9s (0:00:09) on GetFullChannelRequest flood wait
+2025-07-02 09:41:57,739 - INFO - Sleeping for 10s (0:00:10) on GetFullChannelRequest flood wait
+2025-07-02 09:42:09,130 - INFO - Sleeping for 10s (0:00:10) on GetFullChannelRequest flood wait
+2025-07-02 09:42:20,410 - INFO - Sleeping for 10s (0:00:10) on GetFullChannelRequest flood wait
+2025-07-02 09:42:31,684 - INFO - Sleeping for 10s (0:00:10) on GetFullChannelRequest flood wait
+2025-07-02 09:42:43,008 - INFO - Sleeping for 9s (0:00:09) on GetFullChannelRequest flood wait
+2025-07-02 09:42:53,544 - INFO - Sleeping for 10s (0:00:10) on GetFullChannelRequest flood wait
+2025-07-02 09:43:04,825 - INFO - Sleeping for 10s (0:00:10) on GetFullChannelRequest flood wait
+2025-07-02 09:43:16,136 - INFO - Sleeping for 10s (0:00:10) on GetFullChannelRequest flood wait
+2025-07-02 09:43:27,527 - INFO - Sleeping for 10s (0:00:10) on GetFullChannelRequest flood wait
+2025-07-02 09:43:38,800 - INFO - Sleeping for 10s (0:00:10) on GetFullChannelRequest flood wait
+2025-07-02 09:43:50,055 - INFO - Sleeping for 10s (0:00:10) on GetFullChannelRequest flood wait
+2025-07-02 09:44:01,475 - INFO - Sleeping for 10s (0:00:10) on GetFullChannelRequest flood wait
+2025-07-02 09:44:13,223 - INFO - Sleeping for 9s (0:00:09) on GetFullChannelRequest flood wait
+2025-07-02 09:44:23,589 - INFO - Sleeping for 10s (0:00:10) on GetFullChannelRequest flood wait
+2025-07-02 09:44:34,862 - INFO - Sleeping for 10s (0:00:10) on GetFullChannelRequest flood wait
+2025-07-02 09:44:46,837 - INFO - Sleeping for 10s (0:00:10) on GetFullChannelRequest flood wait
+2025-07-02 09:44:57,905 - INFO - Links saved to: extracted_links.json
+2025-07-02 09:44:57,907 - INFO - Extraction completed: 219 links found from 276 messages
+2025-07-02 09:44:57,909 - INFO - Unique channels found: 1
+2025-07-02 09:44:57,915 - INFO - Disconnecting from 149.154.167.91:443/TcpFull...
+2025-07-02 09:44:57,916 - INFO - Disconnection from 149.154.167.91:443/TcpFull complete!
+2025-07-02 09:57:18,971 - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2025-07-02 09:57:19,095 - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2025-07-02 09:57:40,441 - ERROR - Error extracting links from channel @ganjine_pack: Nobody is using this username, or the username is unacceptable. If the latter, it must match r"[a-zA-Z][\w\d]{3,30}[a-zA-Z\d]" (caused by ResolveUsernameRequest)
+2025-07-02 09:57:40,442 - INFO - Disconnecting from 149.154.167.91:443/TcpFull...
+2025-07-02 09:57:40,443 - INFO - Disconnection from 149.154.167.91:443/TcpFull complete!
+2025-07-02 09:58:04,972 - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2025-07-02 09:58:05,096 - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2025-07-02 09:58:05,918 - INFO - Starting link extraction from: گنجینه
+2025-07-02 09:58:06,550 - INFO - Links saved to: extracted_links.json
+2025-07-02 09:58:06,551 - INFO - Extraction completed: 0 links found from 60 messages
+2025-07-02 09:58:06,551 - INFO - Unique channels found: 0
+2025-07-02 09:58:06,553 - INFO - Disconnecting from 149.154.167.91:443/TcpFull...
+2025-07-02 09:58:06,554 - INFO - Disconnection from 149.154.167.91:443/TcpFull complete!
+2025-07-02 10:03:18,704 - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2025-07-02 10:03:18,829 - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2025-07-02 10:03:19,655 - INFO - Starting link extraction from: گنجینه
+2025-07-02 10:03:20,116 - INFO - [DEBUG] Message 172: Found 1 link(s)
+2025-07-02 10:03:20,116 - INFO - [DEBUG] Message 171: Found 1 link(s)
+2025-07-02 10:03:20,117 - INFO - [DEBUG] Message 169: Found 1 link(s)
+2025-07-02 10:03:20,117 - INFO - [DEBUG] Message 168: Found 1 link(s)
+2025-07-02 10:03:20,118 - INFO - [DEBUG] Message 155: Found 1 link(s)
+2025-07-02 10:03:20,118 - INFO - [DEBUG] Message 154: Found 1 link(s)
+2025-07-02 10:03:20,118 - INFO - [DEBUG] Message 94: Found 1 link(s)
+2025-07-02 10:03:20,119 - INFO - [DEBUG] Message 93: Found 1 link(s)
+2025-07-02 10:03:20,119 - INFO - [DEBUG] Message 92: Found 1 link(s)
+2025-07-02 10:03:20,120 - INFO - [DEBUG] Message 91: Found 1 link(s)
+2025-07-02 10:03:20,120 - INFO - [DEBUG] Message 90: Found 1 link(s)
+2025-07-02 10:03:20,120 - INFO - [DEBUG] Message 89: Found 1 link(s)
+2025-07-02 10:03:20,121 - INFO - [DEBUG] Message 88: Found 1 link(s)
+2025-07-02 10:03:20,121 - INFO - [DEBUG] Message 87: Found 1 link(s)
+2025-07-02 10:03:20,121 - INFO - [DEBUG] Message 86: Found 1 link(s)
+2025-07-02 10:03:20,122 - INFO - [DEBUG] Message 85: Found 1 link(s)
+2025-07-02 10:03:20,122 - INFO - [DEBUG] Message 84: Found 1 link(s)
+2025-07-02 10:03:20,122 - INFO - [DEBUG] Message 83: Found 1 link(s)
+2025-07-02 10:03:20,123 - INFO - [DEBUG] Message 82: Found 1 link(s)
+2025-07-02 10:03:20,123 - INFO - [DEBUG] Message 81: Found 1 link(s)
+2025-07-02 10:03:20,123 - INFO - [DEBUG] Message 80: Found 1 link(s)
+2025-07-02 10:03:20,123 - INFO - [DEBUG] Message 79: Found 1 link(s)
+2025-07-02 10:03:20,124 - INFO - [DEBUG] Message 78: Found 1 link(s)
+2025-07-02 10:03:20,124 - INFO - [DEBUG] Message 77: Found 1 link(s)
+2025-07-02 10:03:20,124 - INFO - [DEBUG] Message 76: Found 1 link(s)
+2025-07-02 10:03:20,125 - INFO - [DEBUG] Message 75: Found 1 link(s)
+2025-07-02 10:03:20,125 - INFO - [DEBUG] Message 74: Found 1 link(s)
+2025-07-02 10:03:20,125 - INFO - [DEBUG] Message 73: Found 1 link(s)
+2025-07-02 10:03:20,125 - INFO - [DEBUG] Message 72: Found 1 link(s)
+2025-07-02 10:03:20,126 - INFO - [DEBUG] Message 71: Found 1 link(s)
+2025-07-02 10:03:20,126 - INFO - [DEBUG] Message 70: Found 1 link(s)
+2025-07-02 10:03:20,126 - INFO - [DEBUG] Message 69: Found 1 link(s)
+2025-07-02 10:03:20,127 - INFO - [DEBUG] Message 68: Found 1 link(s)
+2025-07-02 10:03:20,127 - INFO - [DEBUG] Message 67: Found 1 link(s)
+2025-07-02 10:03:20,127 - INFO - [DEBUG] Message 66: Found 1 link(s)
+2025-07-02 10:03:20,127 - INFO - [DEBUG] Message 65: Found 1 link(s)
+2025-07-02 10:03:20,128 - INFO - [DEBUG] Message 64: Found 1 link(s)
+2025-07-02 10:03:20,128 - INFO - [DEBUG] Message 63: Found 1 link(s)
+2025-07-02 10:03:20,128 - INFO - [DEBUG] Message 62: Found 1 link(s)
+2025-07-02 10:03:20,129 - INFO - [DEBUG] Message 61: Found 1 link(s)
+2025-07-02 10:03:20,129 - INFO - [DEBUG] Message 60: Found 1 link(s)
+2025-07-02 10:03:20,129 - INFO - [DEBUG] Message 59: Found 1 link(s)
+2025-07-02 10:03:20,130 - INFO - [DEBUG] Message 58: Found 1 link(s)
+2025-07-02 10:03:20,130 - INFO - [DEBUG] Message 57: Found 1 link(s)
+2025-07-02 10:03:20,130 - INFO - [DEBUG] Message 56: Found 1 link(s)
+2025-07-02 10:03:20,130 - INFO - [DEBUG] Message 55: Found 1 link(s)
+2025-07-02 10:03:20,131 - INFO - [DEBUG] Message 54: Found 1 link(s)
+2025-07-02 10:03:20,131 - INFO - [DEBUG] Message 53: Found 1 link(s)
+2025-07-02 10:03:20,132 - INFO - [DEBUG] Message 52: Found 1 link(s)
+2025-07-02 10:03:20,132 - INFO - [DEBUG] Message 51: Found 1 link(s)
+2025-07-02 10:03:20,133 - INFO - [DEBUG] Message 50: Found 1 link(s)
+2025-07-02 10:03:20,133 - INFO - [DEBUG] Message 49: Found 1 link(s)
+2025-07-02 10:03:20,134 - INFO - [DEBUG] Message 48: Found 1 link(s)
+2025-07-02 10:03:20,135 - INFO - [DEBUG] Message 47: Found 1 link(s)
+2025-07-02 10:03:20,136 - INFO - [DEBUG] Message 46: Found 1 link(s)
+2025-07-02 10:03:20,136 - INFO - [DEBUG] Message 44: Found 1 link(s)
+2025-07-02 10:03:20,137 - INFO - [DEBUG] Message 42: Found 1 link(s)
+2025-07-02 10:03:20,138 - INFO - [DEBUG] Message 41: Found 1 link(s)
+2025-07-02 10:03:20,138 - INFO - [DEBUG] Message 40: Found 1 link(s)
+2025-07-02 10:03:20,274 - INFO - Links saved to: extracted_links.json
+2025-07-02 10:03:20,274 - INFO - Extraction completed: 59 links found from 60 messages
+2025-07-02 10:03:20,275 - INFO - Unique links found: 59
+2025-07-02 10:03:20,277 - INFO - Disconnecting from 149.154.167.91:443/TcpFull...
+2025-07-02 10:03:20,278 - INFO - Disconnection from 149.154.167.91:443/TcpFull complete!
+2025-07-02 10:04:08,560 - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2025-07-02 10:04:08,689 - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2025-07-02 10:04:09,531 - INFO - Starting link extraction from: گنجینه
+2025-07-02 10:04:09,988 - INFO - [DEBUG] Message 172: Found 1 link(s)
+2025-07-02 10:04:09,989 - INFO - [DEBUG] Message 171: Found 1 link(s)
+2025-07-02 10:04:09,989 - INFO - [DEBUG] Message 169: Found 1 link(s)
+2025-07-02 10:04:09,990 - INFO - [DEBUG] Message 168: Found 1 link(s)
+2025-07-02 10:04:09,990 - INFO - [DEBUG] Message 155: Found 1 link(s)
+2025-07-02 10:04:09,990 - INFO - [DEBUG] Message 154: Found 1 link(s)
+2025-07-02 10:04:09,991 - INFO - [DEBUG] Message 94: Found 1 link(s)
+2025-07-02 10:04:09,991 - INFO - [DEBUG] Message 93: Found 1 link(s)
+2025-07-02 10:04:09,991 - INFO - [DEBUG] Message 92: Found 1 link(s)
+2025-07-02 10:04:09,992 - INFO - [DEBUG] Message 91: Found 1 link(s)
+2025-07-02 10:04:09,993 - INFO - [DEBUG] Message 90: Found 1 link(s)
+2025-07-02 10:04:09,993 - INFO - [DEBUG] Message 89: Found 1 link(s)
+2025-07-02 10:04:09,993 - INFO - [DEBUG] Message 88: Found 1 link(s)
+2025-07-02 10:04:09,993 - INFO - [DEBUG] Message 87: Found 1 link(s)
+2025-07-02 10:04:09,994 - INFO - [DEBUG] Message 86: Found 1 link(s)
+2025-07-02 10:04:09,994 - INFO - [DEBUG] Message 85: Found 1 link(s)
+2025-07-02 10:04:09,994 - INFO - [DEBUG] Message 84: Found 1 link(s)
+2025-07-02 10:04:09,995 - INFO - [DEBUG] Message 83: Found 1 link(s)
+2025-07-02 10:04:09,995 - INFO - [DEBUG] Message 82: Found 1 link(s)
+2025-07-02 10:04:09,996 - INFO - [DEBUG] Message 81: Found 1 link(s)
+2025-07-02 10:04:09,996 - INFO - [DEBUG] Message 80: Found 1 link(s)
+2025-07-02 10:04:09,996 - INFO - [DEBUG] Message 79: Found 1 link(s)
+2025-07-02 10:04:09,996 - INFO - [DEBUG] Message 78: Found 1 link(s)
+2025-07-02 10:04:09,997 - INFO - [DEBUG] Message 77: Found 1 link(s)
+2025-07-02 10:04:09,997 - INFO - [DEBUG] Message 76: Found 1 link(s)
+2025-07-02 10:04:09,998 - INFO - [DEBUG] Message 75: Found 1 link(s)
+2025-07-02 10:04:09,998 - INFO - [DEBUG] Message 74: Found 1 link(s)
+2025-07-02 10:04:09,998 - INFO - [DEBUG] Message 73: Found 1 link(s)
+2025-07-02 10:04:09,999 - INFO - [DEBUG] Message 72: Found 1 link(s)
+2025-07-02 10:04:09,999 - INFO - [DEBUG] Message 71: Found 1 link(s)
+2025-07-02 10:04:10,000 - INFO - [DEBUG] Message 70: Found 1 link(s)
+2025-07-02 10:04:10,000 - INFO - [DEBUG] Message 69: Found 1 link(s)
+2025-07-02 10:04:10,001 - INFO - [DEBUG] Message 68: Found 1 link(s)
+2025-07-02 10:04:10,001 - INFO - [DEBUG] Message 67: Found 1 link(s)
+2025-07-02 10:04:10,001 - INFO - [DEBUG] Message 66: Found 1 link(s)
+2025-07-02 10:04:10,002 - INFO - [DEBUG] Message 65: Found 1 link(s)
+2025-07-02 10:04:10,002 - INFO - [DEBUG] Message 64: Found 1 link(s)
+2025-07-02 10:04:10,003 - INFO - [DEBUG] Message 63: Found 1 link(s)
+2025-07-02 10:04:10,003 - INFO - [DEBUG] Message 62: Found 1 link(s)
+2025-07-02 10:04:10,003 - INFO - [DEBUG] Message 61: Found 1 link(s)
+2025-07-02 10:04:10,004 - INFO - [DEBUG] Message 60: Found 1 link(s)
+2025-07-02 10:04:10,004 - INFO - [DEBUG] Message 59: Found 1 link(s)
+2025-07-02 10:04:10,005 - INFO - [DEBUG] Message 58: Found 1 link(s)
+2025-07-02 10:04:10,005 - INFO - [DEBUG] Message 57: Found 1 link(s)
+2025-07-02 10:04:10,006 - INFO - [DEBUG] Message 56: Found 1 link(s)
+2025-07-02 10:04:10,006 - INFO - [DEBUG] Message 55: Found 1 link(s)
+2025-07-02 10:04:10,006 - INFO - [DEBUG] Message 54: Found 1 link(s)
+2025-07-02 10:04:10,007 - INFO - [DEBUG] Message 53: Found 1 link(s)
+2025-07-02 10:04:10,007 - INFO - [DEBUG] Message 52: Found 1 link(s)
+2025-07-02 10:04:10,008 - INFO - [DEBUG] Message 51: Found 1 link(s)
+2025-07-02 10:04:10,008 - INFO - [DEBUG] Message 50: Found 1 link(s)
+2025-07-02 10:04:10,008 - INFO - [DEBUG] Message 49: Found 1 link(s)
+2025-07-02 10:04:10,009 - INFO - [DEBUG] Message 48: Found 1 link(s)
+2025-07-02 10:04:10,009 - INFO - [DEBUG] Message 47: Found 1 link(s)
+2025-07-02 10:04:10,010 - INFO - [DEBUG] Message 46: Found 1 link(s)
+2025-07-02 10:04:10,010 - INFO - [DEBUG] Message 44: Found 1 link(s)
+2025-07-02 10:04:10,011 - INFO - [DEBUG] Message 42: Found 1 link(s)
+2025-07-02 10:04:10,011 - INFO - [DEBUG] Message 41: Found 1 link(s)
+2025-07-02 10:04:10,011 - INFO - [DEBUG] Message 40: Found 1 link(s)
+2025-07-02 10:04:10,151 - INFO - Links saved to: ganjine_packs.json
+2025-07-02 10:04:10,151 - INFO - Extraction completed: 59 links found from 60 messages
+2025-07-02 10:04:10,152 - INFO - Unique links found: 59
+2025-07-02 10:04:10,154 - INFO - Disconnecting from 149.154.167.91:443/TcpFull...
+2025-07-02 10:04:10,155 - INFO - Disconnection from 149.154.167.91:443/TcpFull complete!
+2025-07-02 10:06:19,450 - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2025-07-02 10:06:19,580 - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2025-07-02 10:06:20,610 - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2025-07-02 10:06:20,730 - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2025-07-02 10:06:26,215 - ERROR - Connection failed: database is locked
+2025-07-02 10:06:30,220 - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2025-07-02 10:06:30,344 - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2025-07-02 10:06:35,883 - ERROR - Connection failed: database is locked
+2025-07-02 10:06:39,893 - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2025-07-02 10:06:40,016 - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2025-07-02 10:06:45,513 - ERROR - Connection failed: database is locked
+2025-07-02 10:06:45,520 - INFO - Disconnecting from 149.154.167.91:443/TcpFull...
+2025-07-02 10:06:45,542 - INFO - Disconnection from 149.154.167.91:443/TcpFull complete!
+2025-07-02 10:27:20,592 - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2025-07-02 10:27:22,043 - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2025-07-02 10:27:28,190 - INFO - Phone migrated to 4
+2025-07-02 10:27:28,326 - INFO - Reconnecting to new data center 4
+2025-07-02 10:27:28,502 - INFO - Disconnecting from 149.154.167.51:443/TcpFull...
+2025-07-02 10:27:28,503 - INFO - Disconnection from 149.154.167.51:443/TcpFull complete!
+2025-07-02 10:27:28,504 - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2025-07-02 10:27:30,163 - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2025-07-02 10:27:37,729 - ERROR - Failed to download message 294: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A075574B50>'
+2025-07-02 10:27:37,730 - ERROR - Failed to download message 293: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07564A5E0>'
+2025-07-02 10:27:37,731 - ERROR - Failed to download message 292: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07564A580>'
+2025-07-02 10:27:37,732 - ERROR - Failed to download message 291: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07564A610>'
+2025-07-02 10:27:37,733 - ERROR - Failed to download message 290: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A075574C40>'
+2025-07-02 10:27:37,734 - ERROR - Failed to download message 289: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07564D490>'
+2025-07-02 10:27:37,736 - ERROR - Failed to download message 288: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07564D2E0>'
+2025-07-02 10:27:37,737 - ERROR - Failed to download message 287: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07564D310>'
+2025-07-02 10:27:37,737 - ERROR - Failed to download message 286: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07564D430>'
+2025-07-02 10:27:37,739 - ERROR - Failed to download message 285: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07553FB50>'
+2025-07-02 10:27:37,740 - ERROR - Failed to download message 284: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07564D670>'
+2025-07-02 10:27:37,741 - ERROR - Failed to download message 283: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07564D640>'
+2025-07-02 10:27:37,742 - ERROR - Failed to download message 282: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07564D6A0>'
+2025-07-02 10:27:37,743 - ERROR - Failed to download message 281: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07564D6D0>'
+2025-07-02 10:27:37,744 - ERROR - Failed to download message 280: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07555A820>'
+2025-07-02 10:27:37,745 - ERROR - Failed to download message 279: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07564D850>'
+2025-07-02 10:27:37,746 - ERROR - Failed to download message 278: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07564D820>'
+2025-07-02 10:27:37,747 - ERROR - Failed to download message 277: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07564D880>'
+2025-07-02 10:27:37,748 - ERROR - Failed to download message 276: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07564D8B0>'
+2025-07-02 10:27:37,750 - ERROR - Failed to download message 275: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07555A130>'
+2025-07-02 10:27:37,753 - ERROR - Failed to download message 274: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07564DA30>'
+2025-07-02 10:27:37,755 - ERROR - Failed to download message 273: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07564DA00>'
+2025-07-02 10:27:37,756 - ERROR - Failed to download message 272: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07564DA60>'
+2025-07-02 10:27:37,757 - ERROR - Failed to download message 271: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07564DA90>'
+2025-07-02 10:27:37,759 - ERROR - Failed to download message 270: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07564D340>'
+2025-07-02 10:27:37,760 - ERROR - Failed to download message 269: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07564DC10>'
+2025-07-02 10:27:37,761 - ERROR - Failed to download message 268: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07564DBE0>'
+2025-07-02 10:27:37,765 - ERROR - Failed to download message 267: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07564DC40>'
+2025-07-02 10:27:37,767 - ERROR - Failed to download message 266: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07564DC70>'
+2025-07-02 10:27:37,769 - ERROR - Failed to download message 264: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07564DDF0>'
+2025-07-02 10:27:37,770 - ERROR - Failed to download message 263: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07564DDC0>'
+2025-07-02 10:27:37,771 - ERROR - Failed to download message 262: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07564DE20>'
+2025-07-02 10:27:37,773 - ERROR - Failed to download message 261: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07564DE50>'
+2025-07-02 10:27:37,774 - ERROR - Failed to download message 260: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07564D3D0>'
+2025-07-02 10:27:37,776 - ERROR - Failed to download message 259: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07564DF70>'
+2025-07-02 10:27:37,777 - ERROR - Failed to download message 257: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07564DFA0>'
+2025-07-02 10:27:37,778 - ERROR - Failed to download message 256: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07564DFD0>'
+2025-07-02 10:27:37,779 - ERROR - Failed to download message 254: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07564D3A0>'
+2025-07-02 10:27:37,780 - ERROR - Failed to download message 252: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A075656160>'
+2025-07-02 10:27:37,782 - ERROR - Failed to download message 251: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A075656190>'
+2025-07-02 10:27:37,784 - ERROR - Failed to download message 249: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07564D460>'
+2025-07-02 10:27:37,786 - ERROR - Failed to download message 248: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A075656130>'
+2025-07-02 10:27:37,789 - ERROR - Failed to download message 246: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A0756562B0>'
+2025-07-02 10:27:37,791 - ERROR - Failed to download message 245: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07564D700>'
+2025-07-02 10:27:37,792 - ERROR - Failed to download message 244: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A075656340>'
+2025-07-02 10:27:37,793 - ERROR - Failed to download message 243: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A075656070>'
+2025-07-02 10:27:37,793 - ERROR - Failed to download message 242: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A0756563A0>'
+2025-07-02 10:27:37,794 - ERROR - Failed to download message 241: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A0756563D0>'
+2025-07-02 10:27:37,796 - ERROR - Failed to download message 240: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07564D8E0>'
+2025-07-02 10:27:37,796 - ERROR - Failed to download message 239: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A075656550>'
+2025-07-02 10:27:37,797 - ERROR - Failed to download message 238: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A075656520>'
+2025-07-02 10:27:37,799 - ERROR - Failed to download message 237: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A075656580>'
+2025-07-02 10:27:37,802 - ERROR - Failed to download message 236: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A0756565B0>'
+2025-07-02 10:27:37,804 - ERROR - Failed to download message 235: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07564DAC0>'
+2025-07-02 10:27:37,807 - ERROR - Failed to download message 234: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A075656730>'
+2025-07-02 10:27:37,810 - ERROR - Failed to download message 233: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A075656700>'
+2025-07-02 10:27:37,812 - ERROR - Failed to download message 232: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A075656760>'
+2025-07-02 10:27:37,813 - ERROR - Failed to download message 231: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A075656790>'
+2025-07-02 10:27:37,815 - ERROR - Failed to download message 230: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07564DCA0>'
+2025-07-02 10:27:37,816 - ERROR - Failed to download message 229: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A075656910>'
+2025-07-02 10:27:37,817 - ERROR - Failed to download message 228: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A0756568E0>'
+2025-07-02 10:27:37,819 - ERROR - Failed to download message 227: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A075656940>'
+2025-07-02 10:27:37,822 - ERROR - Failed to download message 226: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A075656970>'
+2025-07-02 10:27:37,826 - ERROR - Failed to download message 225: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07564DE80>'
+2025-07-02 10:27:37,828 - ERROR - Failed to download message 224: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A075656AF0>'
+2025-07-02 10:27:37,829 - ERROR - Failed to download message 223: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A075656AC0>'
+2025-07-02 10:27:37,831 - ERROR - Failed to download message 222: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A075656B20>'
+2025-07-02 10:27:37,833 - ERROR - Failed to download message 221: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A075656B50>'
+2025-07-02 10:27:37,835 - ERROR - Failed to download message 220: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A075656040>'
+2025-07-02 10:27:37,837 - ERROR - Failed to download message 219: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A075656CD0>'
+2025-07-02 10:27:37,838 - ERROR - Failed to download message 213: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A075656D00>'
+2025-07-02 10:27:37,840 - ERROR - Failed to download message 212: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A075656D30>'
+2025-07-02 10:27:37,841 - ERROR - Failed to download message 211: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A0756561C0>'
+2025-07-02 10:27:37,842 - ERROR - Failed to download message 210: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A075656E50>'
+2025-07-02 10:27:37,844 - ERROR - Failed to download message 209: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A075656DF0>'
+2025-07-02 10:27:37,845 - ERROR - Failed to download message 208: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A075656E80>'
+2025-07-02 10:27:37,847 - ERROR - Failed to download message 207: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A075656EB0>'
+2025-07-02 10:27:37,848 - ERROR - Failed to download message 206: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A0756562E0>'
+2025-07-02 10:27:37,849 - ERROR - Failed to download message 205: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A075658070>'
+2025-07-02 10:27:37,851 - ERROR - Failed to download message 204: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A075658040>'
+2025-07-02 10:27:37,853 - ERROR - Failed to download message 203: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A0756580A0>'
+2025-07-02 10:27:37,857 - ERROR - Failed to download message 202: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A0756580D0>'
+2025-07-02 10:27:37,860 - ERROR - Failed to download message 201: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A075656400>'
+2025-07-02 10:27:37,861 - ERROR - Failed to download message 200: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A075658250>'
+2025-07-02 10:27:37,863 - ERROR - Failed to download message 199: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A075658220>'
+2025-07-02 10:27:37,865 - ERROR - Failed to download message 198: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A075658280>'
+2025-07-02 10:27:37,869 - ERROR - Failed to download message 197: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A0756582B0>'
+2025-07-02 10:27:37,872 - ERROR - Failed to download message 196: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A0756565E0>'
+2025-07-02 10:27:37,875 - ERROR - Failed to download message 195: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A075658430>'
+2025-07-02 10:27:37,876 - ERROR - Failed to download message 194: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A075658400>'
+2025-07-02 10:27:37,878 - ERROR - Failed to download message 193: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A075658460>'
+2025-07-02 10:27:37,879 - ERROR - Failed to download message 192: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A075658490>'
+2025-07-02 10:27:37,881 - ERROR - Failed to download message 191: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A0756567C0>'
+2025-07-02 10:27:37,882 - ERROR - Failed to download message 190: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A075658610>'
+2025-07-02 10:27:37,884 - ERROR - Failed to download message 189: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A0756585E0>'
+2025-07-02 10:27:37,887 - ERROR - Failed to download message 188: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A075658640>'
+2025-07-02 10:27:37,890 - ERROR - Failed to download message 187: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A075658670>'
+2025-07-02 10:27:37,893 - ERROR - Failed to download message 186: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A0756569A0>'
+2025-07-02 10:27:37,894 - ERROR - Failed to download message 185: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A0756587F0>'
+2025-07-02 10:27:37,896 - ERROR - Failed to download message 184: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A0756587C0>'
+2025-07-02 10:27:37,897 - ERROR - Failed to download message 183: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A075658820>'
+2025-07-02 10:27:37,898 - ERROR - Failed to download message 182: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A075658850>'
+2025-07-02 10:27:37,901 - ERROR - Failed to download message 181: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A075656B80>'
+2025-07-02 10:27:37,904 - ERROR - Failed to download message 180: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A0756589D0>'
+2025-07-02 10:27:37,907 - ERROR - Failed to download message 178: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A075658A00>'
+2025-07-02 10:27:37,909 - ERROR - Failed to download message 177: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A075658A30>'
+2025-07-02 10:27:37,911 - ERROR - Failed to download message 176: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A075656D60>'
+2025-07-02 10:27:37,912 - ERROR - Failed to download message 175: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A075658B50>'
+2025-07-02 10:27:37,914 - ERROR - Failed to download message 173: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A075658B80>'
+2025-07-02 10:27:37,916 - ERROR - Failed to download message 172: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A075658BB0>'
+2025-07-02 10:27:37,921 - ERROR - Failed to download message 171: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A075656EE0>'
+2025-07-02 10:27:37,925 - ERROR - Failed to download message 170: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A075658CD0>'
+2025-07-02 10:27:37,927 - ERROR - Failed to download message 169: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A075658C70>'
+2025-07-02 10:27:37,928 - ERROR - Failed to download message 168: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A075658D00>'
+2025-07-02 10:27:37,930 - ERROR - Failed to download message 167: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A075658D30>'
+2025-07-02 10:27:37,932 - ERROR - Failed to download message 166: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A075658100>'
+2025-07-02 10:27:37,936 - ERROR - Failed to download message 165: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A075658EB0>'
+2025-07-02 10:27:37,939 - ERROR - Failed to download message 164: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A075658E80>'
+2025-07-02 10:27:37,941 - ERROR - Failed to download message 163: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A075658EE0>'
+2025-07-02 10:27:37,942 - ERROR - Failed to download message 161: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A0756582E0>'
+2025-07-02 10:27:37,943 - ERROR - Failed to download message 160: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A075659040>'
+2025-07-02 10:27:37,944 - ERROR - Failed to download message 159: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A0756590A0>'
+2025-07-02 10:27:37,945 - ERROR - Failed to download message 158: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A075659070>'
+2025-07-02 10:27:37,946 - ERROR - Failed to download message 157: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A0756590D0>'
+2025-07-02 10:27:37,947 - ERROR - Failed to download message 156: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A0756584C0>'
+2025-07-02 10:27:37,949 - ERROR - Failed to download message 155: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A075659250>'
+2025-07-02 10:27:37,951 - ERROR - Failed to download message 154: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A075659220>'
+2025-07-02 10:27:37,953 - ERROR - Failed to download message 153: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A075659280>'
+2025-07-02 10:27:37,956 - ERROR - Failed to download message 152: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A0756592B0>'
+2025-07-02 10:27:37,958 - ERROR - Failed to download message 150: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A0756586A0>'
+2025-07-02 10:27:37,959 - ERROR - Failed to download message 149: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A075659400>'
+2025-07-02 10:27:37,961 - ERROR - Failed to download message 148: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A075659460>'
+2025-07-02 10:27:37,962 - ERROR - Failed to download message 147: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A075659490>'
+2025-07-02 10:27:37,964 - ERROR - Failed to download message 146: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A075658880>'
+2025-07-02 10:27:37,966 - ERROR - Failed to download message 145: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A0756595B0>'
+2025-07-02 10:27:37,968 - ERROR - Failed to download message 144: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A075659580>'
+2025-07-02 10:27:37,972 - ERROR - Failed to download message 143: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A0756595E0>'
+2025-07-02 10:27:37,973 - ERROR - Failed to download message 142: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A075659610>'
+2025-07-02 10:27:37,975 - ERROR - Failed to download message 141: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A075658A60>'
+2025-07-02 10:27:37,976 - ERROR - Failed to download message 140: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A075659790>'
+2025-07-02 10:27:37,978 - ERROR - Failed to download message 139: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A075659760>'
+2025-07-02 10:27:37,979 - ERROR - Failed to download message 137: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A0756597F0>'
+2025-07-02 10:27:37,980 - ERROR - Failed to download message 136: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A075658BE0>'
+2025-07-02 10:27:37,981 - ERROR - Failed to download message 135: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A0756598E0>'
+2025-07-02 10:27:37,982 - ERROR - Failed to download message 134: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A0756598B0>'
+2025-07-02 10:27:37,984 - ERROR - Failed to download message 133: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A075659940>'
+2025-07-02 10:27:37,986 - ERROR - Failed to download message 132: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A075659970>'
+2025-07-02 10:27:37,989 - ERROR - Failed to download message 131: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A075658D60>'
+2025-07-02 10:27:37,990 - ERROR - Failed to download message 130: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A075659AF0>'
+2025-07-02 10:27:37,992 - ERROR - Failed to download message 129: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A075659AC0>'
+2025-07-02 10:27:37,993 - ERROR - Failed to download message 128: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A075659B20>'
+2025-07-02 10:27:37,994 - ERROR - Failed to download message 127: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A075659B50>'
+2025-07-02 10:27:37,995 - ERROR - Failed to download message 126: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A075658F40>'
+2025-07-02 10:27:37,996 - ERROR - Failed to download message 125: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A075659CD0>'
+2025-07-02 10:27:37,997 - ERROR - Failed to download message 124: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A075659CA0>'
+2025-07-02 10:27:37,997 - ERROR - Failed to download message 123: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A075659D00>'
+2025-07-02 10:27:37,998 - ERROR - Failed to download message 122: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A075659D30>'
+2025-07-02 10:27:38,000 - ERROR - Failed to download message 121: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A075659100>'
+2025-07-02 10:27:38,001 - ERROR - Failed to download message 120: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A075659EB0>'
+2025-07-02 10:27:38,004 - ERROR - Failed to download message 119: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A075659E80>'
+2025-07-02 10:27:38,006 - ERROR - Failed to download message 118: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A075659EE0>'
+2025-07-02 10:27:38,007 - ERROR - Failed to download message 117: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A075659F10>'
+2025-07-02 10:27:38,008 - ERROR - Failed to download message 116: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A0756592E0>'
+2025-07-02 10:27:38,010 - ERROR - Failed to download message 115: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07565C0D0>'
+2025-07-02 10:27:38,010 - ERROR - Failed to download message 114: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07565C0A0>'
+2025-07-02 10:27:38,011 - ERROR - Failed to download message 112: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07565C130>'
+2025-07-02 10:27:38,012 - ERROR - Failed to download message 111: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A0756594C0>'
+2025-07-02 10:27:38,013 - ERROR - Failed to download message 110: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07565C220>'
+2025-07-02 10:27:38,014 - ERROR - Failed to download message 109: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07565C1F0>'
+2025-07-02 10:27:38,015 - ERROR - Failed to download message 108: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07565C280>'
+2025-07-02 10:27:38,017 - ERROR - Failed to download message 107: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07565C2B0>'
+2025-07-02 10:27:38,019 - ERROR - Failed to download message 106: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A075659640>'
+2025-07-02 10:27:38,022 - ERROR - Failed to download message 105: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07565C430>'
+2025-07-02 10:27:38,024 - ERROR - Failed to download message 104: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07565C400>'
+2025-07-02 10:27:38,026 - ERROR - Failed to download message 103: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07565C460>'
+2025-07-02 10:27:38,028 - ERROR - Failed to download message 102: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07565C490>'
+2025-07-02 10:27:38,029 - ERROR - Failed to download message 101: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A075659820>'
+2025-07-02 10:27:38,030 - ERROR - Failed to download message 100: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07565C610>'
+2025-07-02 10:27:38,032 - ERROR - Failed to download message 99: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07565C5E0>'
+2025-07-02 10:27:38,033 - ERROR - Failed to download message 98: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07565C640>'
+2025-07-02 10:27:38,036 - ERROR - Failed to download message 97: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07565C670>'
+2025-07-02 10:27:38,038 - ERROR - Failed to download message 96: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A0756599A0>'
+2025-07-02 10:27:38,040 - ERROR - Failed to download message 95: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07565C7F0>'
+2025-07-02 10:27:38,042 - ERROR - Failed to download message 94: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07565C7C0>'
+2025-07-02 10:27:38,044 - ERROR - Failed to download message 93: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07565C820>'
+2025-07-02 10:27:38,045 - ERROR - Failed to download message 92: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07565C850>'
+2025-07-02 10:27:38,046 - ERROR - Failed to download message 91: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A075659B80>'
+2025-07-02 10:27:38,047 - ERROR - Failed to download message 90: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07565C9D0>'
+2025-07-02 10:27:38,048 - ERROR - Failed to download message 89: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07565C9A0>'
+2025-07-02 10:27:38,050 - ERROR - Failed to download message 87: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07565CA30>'
+2025-07-02 10:27:38,054 - ERROR - Failed to download message 86: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A075659D60>'
+2025-07-02 10:27:38,058 - ERROR - Failed to download message 85: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07565CB20>'
+2025-07-02 10:27:38,059 - ERROR - Failed to download message 84: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07565CAF0>'
+2025-07-02 10:27:38,060 - ERROR - Failed to download message 83: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07565CB80>'
+2025-07-02 10:27:38,062 - ERROR - Failed to download message 81: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A075659F40>'
+2025-07-02 10:27:38,064 - ERROR - Failed to download message 80: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07565CCA0>'
+2025-07-02 10:27:38,066 - ERROR - Failed to download message 79: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07565CD00>'
+2025-07-02 10:27:38,069 - ERROR - Failed to download message 75: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07565CCD0>'
+2025-07-02 10:27:38,072 - ERROR - Failed to download message 74: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07565CDF0>'
+2025-07-02 10:27:38,074 - ERROR - Failed to download message 73: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07565CE50>'
+2025-07-02 10:27:38,077 - ERROR - Failed to download message 72: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07565CE20>'
+2025-07-02 10:27:38,079 - ERROR - Failed to download message 71: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07565C2E0>'
+2025-07-02 10:27:38,081 - ERROR - Failed to download message 70: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07565CF70>'
+2025-07-02 10:27:38,083 - ERROR - Failed to download message 69: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07565CF40>'
+2025-07-02 10:27:38,085 - ERROR - Failed to download message 68: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07565CFA0>'
+2025-07-02 10:27:38,089 - ERROR - Failed to download message 67: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07565CFD0>'
+2025-07-02 10:27:38,091 - ERROR - Failed to download message 66: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07565C4C0>'
+2025-07-02 10:27:38,093 - ERROR - Failed to download message 65: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07565E190>'
+2025-07-02 10:27:38,094 - ERROR - Failed to download message 64: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07565E160>'
+2025-07-02 10:27:38,096 - ERROR - Failed to download message 63: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07565E1C0>'
+2025-07-02 10:27:38,097 - ERROR - Failed to download message 62: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07565E1F0>'
+2025-07-02 10:27:38,098 - ERROR - Failed to download message 61: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07565C6A0>'
+2025-07-02 10:27:38,099 - ERROR - Failed to download message 60: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07565E370>'
+2025-07-02 10:27:38,101 - ERROR - Failed to download message 59: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07565E340>'
+2025-07-02 10:27:38,103 - ERROR - Failed to download message 58: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07565E3A0>'
+2025-07-02 10:27:38,104 - ERROR - Failed to download message 57: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07565E3D0>'
+2025-07-02 10:27:38,107 - ERROR - Failed to download message 56: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07565C880>'
+2025-07-02 10:27:38,109 - ERROR - Failed to download message 55: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07565E550>'
+2025-07-02 10:27:38,110 - ERROR - Failed to download message 51: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07565CA60>'
+2025-07-02 10:27:38,111 - ERROR - Failed to download message 50: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07565E580>'
+2025-07-02 10:27:38,112 - ERROR - Failed to download message 49: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07565E520>'
+2025-07-02 10:27:38,113 - ERROR - Failed to download message 48: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07565E610>'
+2025-07-02 10:27:38,114 - ERROR - Failed to download message 46: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07565E6A0>'
+2025-07-02 10:27:38,115 - ERROR - Failed to download message 45: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07565CBE0>'
+2025-07-02 10:27:38,117 - ERROR - Failed to download message 44: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07565E7F0>'
+2025-07-02 10:27:38,119 - ERROR - Failed to download message 43: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07565E7C0>'
+2025-07-02 10:27:38,122 - ERROR - Failed to download message 41: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07565E820>'
+2025-07-02 10:27:38,124 - ERROR - Failed to download message 40: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07565E850>'
+2025-07-02 10:27:38,125 - ERROR - Failed to download message 39: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07565CD60>'
+2025-07-02 10:27:38,126 - ERROR - Failed to download message 37: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07565E9D0>'
+2025-07-02 10:27:38,128 - ERROR - Failed to download message 36: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07565E9A0>'
+2025-07-02 10:27:38,129 - ERROR - Failed to download message 35: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07565EA00>'
+2025-07-02 10:27:38,130 - ERROR - Failed to download message 34: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07565EA30>'
+2025-07-02 10:27:38,132 - ERROR - Failed to download message 32: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07565CE80>'
+2025-07-02 10:27:38,135 - ERROR - Failed to download message 31: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07565EBB0>'
+2025-07-02 10:27:38,138 - ERROR - Failed to download message 30: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07565EB80>'
+2025-07-02 10:27:38,142 - ERROR - Failed to download message 28: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07565EBE0>'
+2025-07-02 10:27:38,144 - ERROR - Failed to download message 27: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07565EC10>'
+2025-07-02 10:27:38,157 - ERROR - Failed to download message 25: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07565E040>'
+2025-07-02 10:27:38,157 - ERROR - Failed to download message 24: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07565ED90>'
+2025-07-02 10:27:38,180 - ERROR - Failed to download message 23: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07565ED60>'
+2025-07-02 10:27:38,210 - ERROR - Failed to download message 21: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07565EDC0>'
+2025-07-02 10:27:38,217 - ERROR - Failed to download message 20: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07565EDF0>'
+2025-07-02 10:27:38,221 - ERROR - Failed to download message 19: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07565E220>'
+2025-07-02 10:27:38,233 - ERROR - Failed to download message 17: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07565EF70>'
+2025-07-02 10:27:38,247 - ERROR - Failed to download message 16: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07565EF40>'
+2025-07-02 10:27:38,263 - ERROR - Failed to download message 14: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07565EFA0>'
+2025-07-02 10:27:38,264 - ERROR - Failed to download message 13: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07565EFD0>'
+2025-07-02 10:27:38,266 - ERROR - Failed to download message 12: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07565E400>'
+2025-07-02 10:27:38,268 - ERROR - Failed to download message 6: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07565F190>'
+2025-07-02 10:27:38,271 - ERROR - Failed to download message 5: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07565F160>'
+2025-07-02 10:27:38,275 - ERROR - Failed to download message 4: [Errno 22] Invalid argument: 'downloads\\all\\<telethon.tl.custom.file.File object at 0x000001A07565F1C0>'
+2025-07-02 10:27:38,282 - INFO - Disconnecting from 149.154.167.91:443/TcpFull...
+2025-07-02 10:27:38,283 - INFO - Disconnection from 149.154.167.91:443/TcpFull complete!
+2025-07-02 10:34:55,372 - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2025-07-02 10:34:55,499 - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2025-07-02 10:34:57,630 - INFO - Starting direct file download in chunks of 262144 at 0, stride 262144
+2025-07-02 10:34:57,631 - INFO - Starting direct file download in chunks of 262144 at 0, stride 262144
+2025-07-02 10:34:57,633 - INFO - Starting direct file download in chunks of 262144 at 0, stride 262144
+2025-07-02 10:34:57,634 - INFO - Starting direct file download in chunks of 262144 at 0, stride 262144
+2025-07-02 10:38:25,845 - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2025-07-02 10:38:25,970 - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2025-07-02 10:38:27,429 - INFO - Successfully downloaded: media_300
+2025-07-02 10:38:27,434 - INFO - Starting direct file download in chunks of 262144 at 0, stride 262144
+2025-07-02 10:38:27,440 - INFO - Starting direct file download in chunks of 262144 at 0, stride 262144
+2025-07-02 10:38:27,448 - INFO - Starting direct file download in chunks of 262144 at 0, stride 262144
+2025-07-02 10:38:27,458 - INFO - Starting direct file download in chunks of 262144 at 0, stride 262144

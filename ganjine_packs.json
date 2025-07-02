@@ -1,0 +1,688 @@
+{
+  "extraction_info": {
+    "channel_identifier": "@ganjine_packs",
+    "channel_info": {
+      "id": 1620795273,
+      "username": "ganjine_packs",
+      "title": "گنجینه",
+      "verified": false,
+      "scam": false,
+      "fake": false,
+      "type": "Channel",
+      "access_hash": 1552970922658198790,
+      "description": "🌟 گنجینه ای از بهترین آموزش های بازارهای مالی به ارزش بیش از 20 هزار دلار و به صورت کاملا رایگان \n\n✨ اینستاگرام:\nbit.ly/ganjine_pack\n\n💫 ادمین:\n@GanjinePack_admin\n\n⭐ لینک کانال اصلی:\nhttps://t.me/+NtbEdDQjP6NhMGQ8",
+      "participants_count": 25973,
+      "admins_count": null,
+      "kicked_count": null,
+      "banned_count": null,
+      "online_count": null,
+      "chat_photo": "Photo(id=6005645769656353155, access_hash=-1405187385710181521, file_reference=b'\\x00hd\\xd2\\xd7\\xa7\\xea\\xb9\\xd1u\\x18\\x81\\xabfK\\x19\\x08\\t(\\xcc\\xfc', date=datetime.datetime(2024, 12, 24, 10, 7, 15, tzinfo=datetime.timezone.utc), sizes=[PhotoSize(type='a', w=160, h=160, size=8794), PhotoSize(type='b', w=320, h=320, size=33746), PhotoSize(type='c', w=640, h=640, size=145019), PhotoStrippedSize(type='i', bytes=b\"\\x01((\\xce\\xa7*3}\\xd5'\\xe9L\\xab\\x16\\xad\\x84\\x078\\x1b\\x8es\\xde\\x93\\xd0\\x06\\x8by\\x88\\xcf\\x96\\xd4\\x08\\x9c\\x0c\\x95 \\x0fj\\xb6U\\x1a]\\xfeY\\xde:\\x1foZBs\\x1b\\xf3\\x91\\x81\\xc7\\xa5+\\xb1\\xd8\\x81\\x16\\x8az\\xf1EP\\x8ab\\xadB\\x9b\\xec\\xf0#\\x127\\x98~\\\\\\xe3\\xb5V\\x14\\xf8\\xdeT\\\\!\\xc0\\xcez\\x03I\\x81\\xa1\\x0c)\\x14e\\x8a\\x04f\\x8d\\xb2\\x99\\xaa\\x89(\\x11\\xb2\\xacJ\\xbb\\xb1\\x93\\x9c\\xd3\\x85\\xdc\\xbe^\\xd3\\x1a\\x17\\xe8\\x1f\\x15\\x11\\x9ab\\xa5]\\xc9S\\xd4b\\x92C\\x1d\\xbe\\x8a\\x84\\xb5\\x15B\\x1b\\x9a\\x030\\xe8\\xc4QE\\x00)w\\xfe\\xf1\\xa4\\xdc\\xd8\\xc1bh\\xa2\\x80\\x12\\x8a(\\xa0\\x0f\")], dc_id=4, has_stickers=False, video_sizes=[])",
+      "exported_invite": "None",
+      "pinned_msg_id": null,
+      "linked_chat_id": null,
+      "slowmode_seconds": null,
+      "ttl_period": null
+    },
+    "extraction_date": "2025-07-02T10:04:09.813181",
+    "message_limit": 1000,
+    "total_messages_processed": 60,
+    "total_links_found": 59
+  },
+  "links": [
+    {
+      "link": "https://t.me/+p6W7lFCfvsA3NmI0",
+      "message_id": 172,
+      "chat_id": -1001620795273,
+      "context": "entity",
+      "position": [
+        89,
+        104
+      ],
+      "timestamp": "2025-07-02T10:04:09.988487"
+    },
+    {
+      "link": "https://t.me/+BHamex9tQJ9jOTZk",
+      "message_id": 171,
+      "chat_id": -1001620795273,
+      "context": "entity",
+      "position": [
+        88,
+        103
+      ],
+      "timestamp": "2025-07-02T10:04:09.989067"
+    },
+    {
+      "link": "https://t.me/+icDNwsiGbjBmYTE8",
+      "message_id": 169,
+      "chat_id": -1001620795273,
+      "context": "entity",
+      "position": [
+        92,
+        107
+      ],
+      "timestamp": "2025-07-02T10:04:09.989067"
+    },
+    {
+      "link": "https://t.me/+n7RcaS3Zu7g2OWRk",
+      "message_id": 168,
+      "chat_id": -1001620795273,
+      "context": "entity",
+      "position": [
+        92,
+        107
+      ],
+      "timestamp": "2025-07-02T10:04:09.990082"
+    },
+    {
+      "link": "https://t.me/+Asu7THa-DnRkNjg0",
+      "message_id": 155,
+      "chat_id": -1001620795273,
+      "context": "entity",
+      "position": [
+        106,
+        121
+      ],
+      "timestamp": "2025-07-02T10:04:09.990690"
+    },
+    {
+      "link": "https://t.me/+bzWIqA7y2yljNjk8",
+      "message_id": 154,
+      "chat_id": -1001620795273,
+      "context": "entity",
+      "position": [
+        83,
+        98
+      ],
+      "timestamp": "2025-07-02T10:04:09.990690"
+    },
+    {
+      "link": "https://t.me/+TGDTX7odDCFiMzRh",
+      "message_id": 94,
+      "chat_id": -1001620795273,
+      "context": "entity",
+      "position": [
+        103,
+        118
+      ],
+      "timestamp": "2025-07-02T10:04:09.991703"
+    },
+    {
+      "link": "https://t.me/+SDDKk9rMvLTMCpW9",
+      "message_id": 93,
+      "chat_id": -1001620795273,
+      "context": "entity",
+      "position": [
+        101,
+        116
+      ],
+      "timestamp": "2025-07-02T10:04:09.991703"
+    },
+    {
+      "link": "https://t.me/+yNGLqIwNDKozNzU0",
+      "message_id": 92,
+      "chat_id": -1001620795273,
+      "context": "entity",
+      "position": [
+        112,
+        127
+      ],
+      "timestamp": "2025-07-02T10:04:09.991703"
+    },
+    {
+      "link": "https://t.me/Servatmandan_Club/46",
+      "message_id": 91,
+      "chat_id": -1001620795273,
+      "context": "entity",
+      "position": [
+        85,
+        100
+      ],
+      "timestamp": "2025-07-02T10:04:09.992702"
+    },
+    {
+      "link": "https://t.me/Pack_50/111",
+      "message_id": 90,
+      "chat_id": -1001620795273,
+      "context": "entity",
+      "position": [
+        96,
+        111
+      ],
+      "timestamp": "2025-07-02T10:04:09.993035"
+    },
+    {
+      "link": "https://t.me/Pack_10/5198",
+      "message_id": 89,
+      "chat_id": -1001620795273,
+      "context": "entity",
+      "position": [
+        100,
+        115
+      ],
+      "timestamp": "2025-07-02T10:04:09.993035"
+    },
+    {
+      "link": "https://t.me/Pack_01/919",
+      "message_id": 88,
+      "chat_id": -1001620795273,
+      "context": "entity",
+      "position": [
+        91,
+        106
+      ],
+      "timestamp": "2025-07-02T10:04:09.993035"
+    },
+    {
+      "link": "https://t.me/+JEu1OE8H_ghlMTU0",
+      "message_id": 87,
+      "chat_id": -1001620795273,
+      "context": "entity",
+      "position": [
+        88,
+        103
+      ],
+      "timestamp": "2025-07-02T10:04:09.993035"
+    },
+    {
+      "link": "https://t.me/+RQtWSuBUUdNiYmY0",
+      "message_id": 86,
+      "chat_id": -1001620795273,
+      "context": "entity",
+      "position": [
+        91,
+        106
+      ],
+      "timestamp": "2025-07-02T10:04:09.994064"
+    },
+    {
+      "link": "https://t.me/+tF_-odcrWxA4NGVh",
+      "message_id": 85,
+      "chat_id": -1001620795273,
+      "context": "entity",
+      "position": [
+        80,
+        95
+      ],
+      "timestamp": "2025-07-02T10:04:09.994064"
+    },
+    {
+      "link": "https://t.me/+1DVfipYLDRk4Njcx",
+      "message_id": 84,
+      "chat_id": -1001620795273,
+      "context": "entity",
+      "position": [
+        91,
+        106
+      ],
+      "timestamp": "2025-07-02T10:04:09.994064"
+    },
+    {
+      "link": "https://t.me/+Qm0y0wnnwcZjNjcx",
+      "message_id": 83,
+      "chat_id": -1001620795273,
+      "context": "entity",
+      "position": [
+        86,
+        101
+      ],
+      "timestamp": "2025-07-02T10:04:09.995064"
+    },
+    {
+      "link": "https://t.me/+UiQYlAyBurw0YmNh",
+      "message_id": 82,
+      "chat_id": -1001620795273,
+      "context": "entity",
+      "position": [
+        96,
+        111
+      ],
+      "timestamp": "2025-07-02T10:04:09.995064"
+    },
+    {
+      "link": "https://t.me/+nlnH7DoghqA1YmEx",
+      "message_id": 81,
+      "chat_id": -1001620795273,
+      "context": "entity",
+      "position": [
+        85,
+        100
+      ],
+      "timestamp": "2025-07-02T10:04:09.996065"
+    },
+    {
+      "link": "https://t.me/+K2OXyU_BZOZiZWUx",
+      "message_id": 80,
+      "chat_id": -1001620795273,
+      "context": "entity",
+      "position": [
+        95,
+        110
+      ],
+      "timestamp": "2025-07-02T10:04:09.996181"
+    },
+    {
+      "link": "https://t.me/+zUGpx_GohZliZWRh",
+      "message_id": 79,
+      "chat_id": -1001620795273,
+      "context": "entity",
+      "position": [
+        102,
+        117
+      ],
+      "timestamp": "2025-07-02T10:04:09.996642"
+    },
+    {
+      "link": "https://t.me/Pack_37/2",
+      "message_id": 78,
+      "chat_id": -1001620795273,
+      "context": "entity",
+      "position": [
+        97,
+        112
+      ],
+      "timestamp": "2025-07-02T10:04:09.996642"
+    },
+    {
+      "link": "https://t.me/+JKt59NVBSwoyNDE0",
+      "message_id": 77,
+      "chat_id": -1001620795273,
+      "context": "entity",
+      "position": [
+        87,
+        102
+      ],
+      "timestamp": "2025-07-02T10:04:09.997641"
+    },
+    {
+      "link": "https://t.me/Pack_50/7",
+      "message_id": 76,
+      "chat_id": -1001620795273,
+      "context": "entity",
+      "position": [
+        109,
+        124
+      ],
+      "timestamp": "2025-07-02T10:04:09.997641"
+    },
+    {
+      "link": "https://t.me/Pack_18/245",
+      "message_id": 75,
+      "chat_id": -1001620795273,
+      "context": "entity",
+      "position": [
+        97,
+        112
+      ],
+      "timestamp": "2025-07-02T10:04:09.998641"
+    },
+    {
+      "link": "https://t.me/Pack_17/255",
+      "message_id": 74,
+      "chat_id": -1001620795273,
+      "context": "entity",
+      "position": [
+        88,
+        103
+      ],
+      "timestamp": "2025-07-02T10:04:09.998641"
+    },
+    {
+      "link": "https://t.me/Pack_34/108",
+      "message_id": 73,
+      "chat_id": -1001620795273,
+      "context": "entity",
+      "position": [
+        87,
+        102
+      ],
+      "timestamp": "2025-07-02T10:04:09.998641"
+    },
+    {
+      "link": "https://t.me/+ZZ29pA16bf4wY2Fh",
+      "message_id": 72,
+      "chat_id": -1001620795273,
+      "context": "entity",
+      "position": [
+        80,
+        95
+      ],
+      "timestamp": "2025-07-02T10:04:09.999643"
+    },
+    {
+      "link": "https://t.me/Pack_34/3",
+      "message_id": 71,
+      "chat_id": -1001620795273,
+      "context": "entity",
+      "position": [
+        90,
+        105
+      ],
+      "timestamp": "2025-07-02T10:04:09.999643"
+    },
+    {
+      "link": "https://t.me/+ipWkNQr4Yb40MmZh",
+      "message_id": 70,
+      "chat_id": -1001620795273,
+      "context": "entity",
+      "position": [
+        81,
+        96
+      ],
+      "timestamp": "2025-07-02T10:04:10.000643"
+    },
+    {
+      "link": "https://t.me/+w00YR38Qxyw5MWJh",
+      "message_id": 69,
+      "chat_id": -1001620795273,
+      "context": "entity",
+      "position": [
+        98,
+        113
+      ],
+      "timestamp": "2025-07-02T10:04:10.000643"
+    },
+    {
+      "link": "https://t.me/+7445YIdYot9jZDlh",
+      "message_id": 68,
+      "chat_id": -1001620795273,
+      "context": "entity",
+      "position": [
+        98,
+        113
+      ],
+      "timestamp": "2025-07-02T10:04:10.000643"
+    },
+    {
+      "link": "https://t.me/+2_MrTTbx0MBlMTFk",
+      "message_id": 67,
+      "chat_id": -1001620795273,
+      "context": "entity",
+      "position": [
+        99,
+        114
+      ],
+      "timestamp": "2025-07-02T10:04:10.001642"
+    },
+    {
+      "link": "https://t.me/+MRQc7t4-a9oyMDUx",
+      "message_id": 66,
+      "chat_id": -1001620795273,
+      "context": "entity",
+      "position": [
+        94,
+        109
+      ],
+      "timestamp": "2025-07-02T10:04:10.001642"
+    },
+    {
+      "link": "https://t.me/Pack_18/191",
+      "message_id": 65,
+      "chat_id": -1001620795273,
+      "context": "entity",
+      "position": [
+        93,
+        108
+      ],
+      "timestamp": "2025-07-02T10:04:10.002644"
+    },
+    {
+      "link": "https://t.me/Pack_18/177",
+      "message_id": 64,
+      "chat_id": -1001620795273,
+      "context": "entity",
+      "position": [
+        87,
+        102
+      ],
+      "timestamp": "2025-07-02T10:04:10.002644"
+    },
+    {
+      "link": "https://t.me/Pack_17/189",
+      "message_id": 63,
+      "chat_id": -1001620795273,
+      "context": "entity",
+      "position": [
+        81,
+        96
+      ],
+      "timestamp": "2025-07-02T10:04:10.003642"
+    },
+    {
+      "link": "https://t.me/Pack_31/46",
+      "message_id": 62,
+      "chat_id": -1001620795273,
+      "context": "entity",
+      "position": [
+        97,
+        112
+      ],
+      "timestamp": "2025-07-02T10:04:10.003642"
+    },
+    {
+      "link": "https://t.me/Pack_31/22",
+      "message_id": 61,
+      "chat_id": -1001620795273,
+      "context": "entity",
+      "position": [
+        89,
+        104
+      ],
+      "timestamp": "2025-07-02T10:04:10.003642"
+    },
+    {
+      "link": "https://t.me/+u1glnOQyDKkyZWVk",
+      "message_id": 60,
+      "chat_id": -1001620795273,
+      "context": "entity",
+      "position": [
+        99,
+        114
+      ],
+      "timestamp": "2025-07-02T10:04:10.004643"
+    },
+    {
+      "link": "https://t.me/+FZ9aUXDjS3MxYTVh",
+      "message_id": 59,
+      "chat_id": -1001620795273,
+      "context": "entity",
+      "position": [
+        95,
+        110
+      ],
+      "timestamp": "2025-07-02T10:04:10.004643"
+    },
+    {
+      "link": "https://t.me/+_7B1ter8fUljNjAx",
+      "message_id": 58,
+      "chat_id": -1001620795273,
+      "context": "entity",
+      "position": [
+        92,
+        107
+      ],
+      "timestamp": "2025-07-02T10:04:10.005642"
+    },
+    {
+      "link": "https://t.me/+S37kZtnbfvIyYzdk",
+      "message_id": 57,
+      "chat_id": -1001620795273,
+      "context": "entity",
+      "position": [
+        102,
+        117
+      ],
+      "timestamp": "2025-07-02T10:04:10.005642"
+    },
+    {
+      "link": "https://t.me/+1uo9uEQbhQM4MjQ0",
+      "message_id": 56,
+      "chat_id": -1001620795273,
+      "context": "entity",
+      "position": [
+        84,
+        99
+      ],
+      "timestamp": "2025-07-02T10:04:10.006645"
+    },
+    {
+      "link": "https://t.me/Pack_17/100",
+      "message_id": 55,
+      "chat_id": -1001620795273,
+      "context": "entity",
+      "position": [
+        97,
+        112
+      ],
+      "timestamp": "2025-07-02T10:04:10.006645"
+    },
+    {
+      "link": "https://t.me/+Bmjx_uizKCEwODU0",
+      "message_id": 54,
+      "chat_id": -1001620795273,
+      "context": "entity",
+      "position": [
+        94,
+        109
+      ],
+      "timestamp": "2025-07-02T10:04:10.006645"
+    },
+    {
+      "link": "https://t.me/Pack_17/40",
+      "message_id": 53,
+      "chat_id": -1001620795273,
+      "context": "entity",
+      "position": [
+        93,
+        108
+      ],
+      "timestamp": "2025-07-02T10:04:10.007644"
+    },
+    {
+      "link": "https://t.me/Pack_18/3",
+      "message_id": 52,
+      "chat_id": -1001620795273,
+      "context": "entity",
+      "position": [
+        79,
+        94
+      ],
+      "timestamp": "2025-07-02T10:04:10.007644"
+    },
+    {
+      "link": "https://t.me/+qyAGui_31NMxNmZk",
+      "message_id": 51,
+      "chat_id": -1001620795273,
+      "context": "entity",
+      "position": [
+        87,
+        102
+      ],
+      "timestamp": "2025-07-02T10:04:10.008643"
+    },
+    {
+      "link": "https://t.me/+BwCV9qYTQmVmNzNk",
+      "message_id": 50,
+      "chat_id": -1001620795273,
+      "context": "entity",
+      "position": [
+        85,
+        100
+      ],
+      "timestamp": "2025-07-02T10:04:10.008643"
+    },
+    {
+      "link": "https://t.me/+WHVnngOBlEj2OCLS",
+      "message_id": 49,
+      "chat_id": -1001620795273,
+      "context": "entity",
+      "position": [
+        85,
+        100
+      ],
+      "timestamp": "2025-07-02T10:04:10.008643"
+    },
+    {
+      "link": "https://t.me/+qGYDQKV2j3o0OGQ0",
+      "message_id": 48,
+      "chat_id": -1001620795273,
+      "context": "entity",
+      "position": [
+        85,
+        100
+      ],
+      "timestamp": "2025-07-02T10:04:10.009644"
+    },
+    {
+      "link": "https://t.me/+uvR0aLn8yf8wZmE0",
+      "message_id": 47,
+      "chat_id": -1001620795273,
+      "context": "entity",
+      "position": [
+        84,
+        99
+      ],
+      "timestamp": "2025-07-02T10:04:10.009644"
+    },
+    {
+      "link": "https://t.me/+PJOlHXzefZxmMDNk",
+      "message_id": 46,
+      "chat_id": -1001620795273,
+      "context": "entity",
+      "position": [
+        77,
+        92
+      ],
+      "timestamp": "2025-07-02T10:04:10.010646"
+    },
+    {
+      "link": "https://t.me/+5rLstHdAc7llZjE0",
+      "message_id": 44,
+      "chat_id": -1001620795273,
+      "context": "entity",
+      "position": [
+        84,
+        99
+      ],
+      "timestamp": "2025-07-02T10:04:10.010646"
+    },
+    {
+      "link": "https://t.me/+GB2_nvsS8JZhMmVk",
+      "message_id": 42,
+      "chat_id": -1001620795273,
+      "context": "entity",
+      "position": [
+        76,
+        91
+      ],
+      "timestamp": "2025-07-02T10:04:10.010646"
+    },
+    {
+      "link": "https://t.me/+XOG_VF4IBMI0NGNk",
+      "message_id": 41,
+      "chat_id": -1001620795273,
+      "context": "entity",
+      "position": [
+        79,
+        94
+      ],
+      "timestamp": "2025-07-02T10:04:10.011643"
+    },
+    {
+      "link": "https://t.me/+7Are60rNWSxiODI0",
+      "message_id": 40,
+      "chat_id": -1001620795273,
+      "context": "entity",
+      "position": [
+        80,
+        95
+      ],
+      "timestamp": "2025-07-02T10:04:10.011643"
+    }
+  ],
+  "statistics": {
+    "link_types": {
+      "entity": 59
+    },
+    "unique_links": 59
+  }
+}
